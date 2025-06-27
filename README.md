@@ -62,11 +62,11 @@ O objetivo é proporcionar uma experiência simples, intuitiva e divertida para 
 
 ## 🎨 Funcionalidades
 
-✅ Inserir nomes dos jogadores
-✅ Visualizar cartas sorteadas
-✅ Acompanhar placar em tempo real
-✅ Ver tela de resultado final
-✅ Jogar novamente reiniciando o placar
+✅ Inserir nomes dos jogadores</br>
+✅ Visualizar cartas sorteadas</br>
+✅ Acompanhar placar em tempo real</br>
+✅ Ver tela de resultado final</br>
+✅ Jogar novamente reiniciando o placar</br>
 
 ---
 
